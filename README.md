@@ -1,59 +1,64 @@
-![Bestias Génesis: las cinco bestias](arte/banner-1200x400.png)
+![Bestias Génesis](arte/banner-1200x400.png)
 
 # Bestias Génesis
 
-**Conviértete en una bestia, domina poderes arcanos y desafía a los guardianes de las ruinas.**
+**Elige entre diez bestias, domina sus habilidades y explora sus dominios en esta aventura 3D gratuita.**
 
-Aventura de acción en tercera persona creada por **Dragón Primordial**. Esta es la **versión 7 en desarrollo**, gratuita, para **Windows de 64 bits**, con textos en **español** y para **un jugador**.
+Aventura de acción, exploración y supervivencia en tercera persona, creada por **Dragón Primordial**. La versión **13.2.0** está en desarrollo y se puede jugar en **Windows x64** y **Android ARM64**.
 
 ## Descargar y jugar
 
-**[Descargar Bestias Génesis v7 para Windows](https://github.com/dragonprimordial12-netizen/Bestias-Genesis/releases/download/v7.0.0/BestiasGenesis-Windows-x64.zip)**
+- [Descargar para Windows x64](https://github.com/dragonprimordial12-netizen/Bestias-Genesis/releases/download/v13.2.0/BestiasGenesis-Windows-x64-v13.2.0.zip)
+- [Descargar para Android ARM64](https://github.com/dragonprimordial12-netizen/Bestias-Genesis/releases/download/v13.2.0/BestiasGenesis-Android-ARM64-v13.2.0.zip)
+- [Ver todas las versiones](https://github.com/dragonprimordial12-netizen/Bestias-Genesis/releases)
 
-Consulta las versiones disponibles en [Releases](https://github.com/dragonprimordial12-netizen/Bestias-Genesis/releases). También puedes obtener el juego en [itch.io](https://dragonprimordial.itch.io/bestias-genesis).
+### Windows
 
 1. Extrae el ZIP completo en una carpeta.
-2. Abre **BestiasGenesis.exe**.
-3. Conserva el archivo PCK, las DLL y la carpeta **legal** junto al ejecutable.
+2. Abre `BestiasGenesis.exe`.
+3. Conserva `BestiasGenesis.pck` y las DLL junto al ejecutable.
 
-No necesitas instalar Godot ni tener Steam abierto. La partida, el equipo y los logros locales se guardan en tu ordenador. El equilibrio, el rendimiento y la presentación pueden cambiar durante el desarrollo.
+### Android
 
-La descarga ocupa **77.507.494 bytes**. Su huella SHA-256 está en [SHA256SUMS.txt](SHA256SUMS.txt).
+1. Descomprime el ZIP en el dispositivo.
+2. Instala `BestiasGenesis-v13.2.0-Android.apk`.
+3. El paquete requiere Android ARM64 (64 bits).
 
-## Elige tu bestia
+No necesitas instalar Godot para jugar. La partida y la progresión local se guardan en el dispositivo. El multijugador LAN permite jugar con otra persona en la misma red.
 
-- **Lagarto:** garras, mordidas y Danza del Depredador.
-- **Abeja:** aguijón, vuelo ágil y técnicas de enjambre.
-- **Escarabajo Bombardero:** Mortero Cáustico y Excavación Sísmica. Vuelve a pulsar F o clic para emerger.
-- **Pangolín de Obsidiana:** Garra Escamada y Rueda de Obsidiana para arrollar enemigos.
-- **Dragón Primordial:** alas y aliento de fuego. Se desbloquea al alcanzar el nivel 5 con Lagarto y Abeja.
+## Novedades de la versión 13.2.0
 
-Cada bestia empieza con un ataque cuerpo a cuerpo y conserva su progresión hasta el nivel 20. La mochila permite consultar y equipar las técnicas que desbloqueas.
+- Mapa ampliado con más espacio de exploración y dominios de las bestias.
+- Zona del Guardián del Robledal con grupos localizados de slimes, alejados de las áreas de reaparición.
+- Los slimes hostiles dejan 5 cristales, 5 puntos de experiencia y un frasco verde que restaura 5 puntos de vida.
+- Tras derrotar tres slimes hostiles aparece el slime azul. Al vencerlo, una cinemática presenta al Slime Titán emergiendo entre rocas.
+- Duelo contra el Slime Titán dentro de una arena cúbica roja que mantiene a ambos combatientes dentro hasta que uno cae.
+- Multijugador LAN, clasificación de bajas y duelos en el Coliseo.
+- El Dragón Origami puede transformarse en una espada de origami.
 
-## Combate y exploración
+## Diez bestias jugables
 
-Prepara tus ataques, esquiva, mantén la guardia y administra vida, maná y vigor. Explora ruinas con ciclo de día y noche, personajes y secretos. Desafía al Oso, Lobo, Araña, Centinela de Cristal y Nutria Gigante.
+Lagarto · Abeja · Dragón Primordial · Escarabajo Bombardero · Pangolín de Obsidiana · Lobo Alfa · Ajolote de las Aguas · T-Rex Primordial · Dragón Origami · Titán del Robledal.
 
-Fabrica armaduras de hielo, lava y oscuridad con materiales de los jefes. Las armaduras fabricadas se comparten entre tus bestias y puedes llevar una equipada a la vez. Incluye **20 logros locales** y opciones de sonido, pantalla, calidad y sensibilidad.
+Cada bestia tiene habilidades y progresión propias, con avance hasta el nivel 20. Explora, combate contra criaturas y guardianes, y reúne materiales para fabricar armaduras.
 
-## Controles
+## Controles de PC
 
 | Tecla o botón | Acción |
 | --- | --- |
 | WASD | Moverte |
 | Clic derecho y ratón | Orientar la cámara |
-| 0–9 | Seleccionar habilidad |
+| 0–9 | Seleccionar una habilidad |
 | F o clic izquierdo | Usar la habilidad seleccionada |
 | R | Cambiar de variante |
 | Q | Esquivar |
 | Z | Mantener la guardia |
-| Shift | Vigor ancestral |
+| Shift | Correr |
 | L | Recargar maná |
 | I | Abrir la mochila |
+| V | Transformación del Dragón Origami |
 
-## Capturas reales
-
-Estas capturas muestran partidas con progresión avanzada utilizadas durante las pruebas.
+## Capturas
 
 ![Pangolín de Obsidiana en las ruinas](capturas/01-pangolin-obsidiana.png)
 
@@ -65,8 +70,8 @@ Estas capturas muestran partidas con progresión avanzada utilizadas durante las
 
 ![Presentación de la Nutria Gigante](capturas/05-nutria-cinematica.png)
 
-## Créditos
+## Créditos y licencias
 
-Creado por **Dragón Primordial** con **Godot**. El desarrollo utiliza asistencia de **Claude y Codex** en programación, modelos y animaciones procedurales, textos y síntesis de audio. El juego no requiere servicios de IA durante la partida.
+Desarrollado por **Dragón Primordial** con **Godot**. El proyecto incluye asistencia de IA en programación, textos, audio y material gráfico, además de herramientas procedurales para modelos y animaciones. No se requieren servicios de IA para jugar.
 
-Los créditos y avisos de los complementos y recursos incluidos se pueden consultar dentro del juego y en la carpeta **legal** de la descarga. Consérvalos al distribuir el paquete.
+Los avisos y licencias de los recursos distribuidos se encuentran en [`legal/`](legal/). Consérvalos al redistribuir el juego.

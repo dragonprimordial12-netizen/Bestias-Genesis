@@ -1,0 +1,36 @@
+BESTIAS GÉNESIS · MÚSICA Y AUDIO ORIGINAL
+
+Autor: Dragón Primordial.
+© 2026 Dragón Primordial.
+
+Antes de la Batalla
+Despertar de la Batalla
+Furia de Pattala
+Pattala Sound Effect
+Siseo del Lagarto
+Zumbido de la Abeja
+Rugido del Dragón Primordial
+Explosión del Escarabajo Bombardero
+Carga Eléctrica (sonido de carga del Rayo del Dragón)
+
+Música y efectos sintetizados por código. Claude (Anthropic) como apoyo
+para programar la síntesis, según declaración del creador del 21/10/2026.
+Sin samples de terceros ni servicios de generación musical como Suno.
+
+Herramientas de producción declaradas:
+- Lobby Music Generator, con Tone.js 14.8.49 y lamejs, para las dos pistas de lobby.
+- La misma herramienta para las cuatro identidades sonoras de las bestias.
+- Lobby Music Generator para Carga Eléctrica, exportado como MP3.
+- Python, NumPy, SciPy y FFmpeg/libmp3lame para Furia de Pattala y su efecto.
+
+Este aviso identifica la autoría declarada. No concede una licencia de
+redistribución de los audios por separado del juego.
+
+AUDIO ADICIONAL DEL PANGOLÍN · 22/10/2026
+
+Resonancia del Pangolín
+Archivo: ave_decorativa/resonancia_del_pangolin_bestias_genesis.wav
+
+Síntesis por código incorporada al proyecto con apoyo de Codex durante la
+creación del Pangolín de Obsidiana. Esta procedencia se documenta aparte
+de las piezas e identidades sonoras declaradas por Dragón Primordial.
