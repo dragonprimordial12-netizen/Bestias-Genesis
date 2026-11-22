@@ -1,4 +1,8 @@
-![Bestias Génesis](arte/banner-1200x400.png)
+<p align="center">
+  <img src="arte/Icono_Bestias_Genesis_13.2.0.png" alt="Icono de Bestias Génesis" width="160">
+  <br>
+  <img src="arte/Baner_Bestias_Genesis_13.2.0.png" alt="Banner actualizado de Bestias Génesis 13.2.0" width="100%">
+</p>
 
 # Bestias Génesis
 
@@ -58,17 +62,26 @@ Cada bestia tiene habilidades y progresión propias, con avance hasta el nivel 2
 | I | Abrir la mochila |
 | V | Transformación del Dragón Origami |
 
-## Capturas
+## Carrusel de bestias
 
-![Pangolín de Obsidiana en las ruinas](capturas/01-pangolin-obsidiana.png)
+Recorre las ocho capturas actualizadas del juego. Haz clic en una imagen para verla a tamaño completo.
 
-![Abeja explorando el escenario](capturas/02-abeja-exploracion.png)
-
-![Dragón preparando su aliento](capturas/03-dragon-preparacion-aliento.png)
-
-![Escarabajo usando Mortero Cáustico](capturas/04-escarabajo-mortero.png)
-
-![Presentación de la Nutria Gigante](capturas/05-nutria-cinematica.png)
+<p align="center">
+  <a href="capturas/lagarto.png"><img src="capturas/lagarto.png" alt="01/08 — Lagarto" width="48%"></a>
+  <a href="capturas/abeja.png"><img src="capturas/abeja.png" alt="02/08 — Abeja" width="48%"></a>
+</p>
+<p align="center">
+  <a href="capturas/dragon.png"><img src="capturas/dragon.png" alt="03/08 — Dragón Primordial" width="48%"></a>
+  <a href="capturas/escarabajo.png"><img src="capturas/escarabajo.png" alt="04/08 — Escarabajo Bombardero" width="48%"></a>
+</p>
+<p align="center">
+  <a href="capturas/pangolin.png"><img src="capturas/pangolin.png" alt="05/08 — Pangolín de Obsidiana" width="48%"></a>
+  <a href="capturas/lobo_alfa.png"><img src="capturas/lobo_alfa.png" alt="06/08 — Lobo Alfa" width="48%"></a>
+</p>
+<p align="center">
+  <a href="capturas/ajolote.png"><img src="capturas/ajolote.png" alt="07/08 — Ajolote de las Aguas" width="48%"></a>
+  <a href="capturas/trex.png"><img src="capturas/trex.png" alt="08/08 — T-Rex Primordial" width="48%"></a>
+</p>
 
 ## Créditos y licencias
 
